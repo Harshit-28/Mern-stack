@@ -1,0 +1,24 @@
+table,
+th,
+td {
+    border: 3px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 70px;
+    text-align: center;
+}
+
+#select{
+    border: 2px solid black;
+    background-color: lightblue;
+    border-radius: 4px;
+    width: fit-content;
+    text-align: center;  
+    margin-right: auto;
+    margin-left:auto  
+  }
