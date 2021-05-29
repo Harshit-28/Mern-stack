@@ -44,7 +44,6 @@ body{
   }
 
 .product{
-    margin: 30px auto;
     padding: 10px 5px;
     border:8px solid #34656d;
     width: 350px;
@@ -52,8 +51,9 @@ body{
     text-align: center;
     display: inline-block;
     overflow: auto;
-    margin: 30px 50px 40px 40px;
+    margin: 100px 100px 100px 120px;
     background-color: #ff8303;
+    
 }
 .inner-box{
     margin: 0px;
